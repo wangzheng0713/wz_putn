@@ -1,0 +1,5 @@
+Symlinking /home/wangzheng/putn_ws/devel/share/putn/cmake/putnConfig.cmake
+Symlinking /home/wangzheng/putn_ws/devel/share/putn/cmake/putnConfig-version.cmake
+Symlinking /home/wangzheng/putn_ws/devel/lib/putn/local_obs_node
+Symlinking /home/wangzheng/putn_ws/devel/lib/putn/global_planning_node
+Symlinking /home/wangzheng/putn_ws/devel/lib/pkgconfig/putn.pc

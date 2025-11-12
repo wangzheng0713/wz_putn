@@ -1,0 +1,7 @@
+Symlinking /home/wangzheng/putn_ws/devel/share/aloam_velodyne/cmake/aloam_velodyneConfig-version.cmake
+Symlinking /home/wangzheng/putn_ws/devel/share/aloam_velodyne/cmake/aloam_velodyneConfig.cmake
+Symlinking /home/wangzheng/putn_ws/devel/lib/aloam_velodyne/ascanRegistration
+Symlinking /home/wangzheng/putn_ws/devel/lib/aloam_velodyne/alaserOdometry
+Symlinking /home/wangzheng/putn_ws/devel/lib/aloam_velodyne/alaserMapping
+Symlinking /home/wangzheng/putn_ws/devel/lib/aloam_velodyne/kittiHelper
+Symlinking /home/wangzheng/putn_ws/devel/lib/pkgconfig/aloam_velodyne.pc

@@ -1,0 +1,8 @@
+prefix=/home/wangzheng/putn_ws/devel/.private/putn_map
+
+Name: putn_map
+Description: Description of putn_map
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

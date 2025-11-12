@@ -1,0 +1,5 @@
+Symlinking /home/wangzheng/putn_ws/devel/share/scout_gazebo_sim/cmake/scout_gazebo_simConfig-version.cmake
+Symlinking /home/wangzheng/putn_ws/devel/share/scout_gazebo_sim/cmake/scout_gazebo_simConfig.cmake
+Symlinking /home/wangzheng/putn_ws/devel/lib/libscout_gazebo.a
+Symlinking /home/wangzheng/putn_ws/devel/lib/scout_gazebo_sim/scout_skid_steer_controller
+Symlinking /home/wangzheng/putn_ws/devel/lib/pkgconfig/scout_gazebo_sim.pc

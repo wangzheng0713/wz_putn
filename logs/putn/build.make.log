@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target global_planning_node[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/global_planning_node.dir/src/global_planning_node.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/global_planning_node.dir/src/PUTN_planner.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/global_planning_node.dir/src/PUTN_classes.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/global_planning_node.dir/src/PUTN_vis.cpp.o[0m
+[35m[1mScanning dependencies of target local_obs_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/local_obs_node.dir/src/local_obs.cpp.o[0m
+[ 60%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/putn/lib/putn/global_planning_node[0m
+[ 60%] Built target global_planning_node
+[ 70%] [32mBuilding CXX object CMakeFiles/local_obs_node.dir/src/PUTN_planner.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/local_obs_node.dir/src/PUTN_classes.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/local_obs_node.dir/src/PUTN_vis.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/putn/lib/putn/local_obs_node[0m
+[100%] Built target local_obs_node

@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target alaserOdometry[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/alaserOdometry.dir/src/laserOdometry.cpp.o[0m
+[35m[1mScanning dependencies of target ascanRegistration[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ascanRegistration.dir/src/scanRegistration.cpp.o[0m
+[35m[1mScanning dependencies of target kittiHelper[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/kittiHelper.dir/src/kittiHelper.cpp.o[0m
+[35m[1mScanning dependencies of target alaserMapping[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/alaserMapping.dir/src/laserMapping.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/aloam_velodyne/lib/aloam_velodyne/alaserOdometry[0m
+[ 62%] Built target alaserOdometry
+[ 75%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/aloam_velodyne/lib/aloam_velodyne/ascanRegistration[0m
+[ 75%] Built target ascanRegistration
+[ 87%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/aloam_velodyne/lib/aloam_velodyne/kittiHelper[0m
+[ 87%] Built target kittiHelper
+[100%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/aloam_velodyne/lib/aloam_velodyne/alaserMapping[0m
+[100%] Built target alaserMapping

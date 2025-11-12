@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target gpr_path[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gpr_path.dir/src/gpr_path.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/wangzheng/putn_ws/devel/.private/gpr/lib/gpr/gpr_path[0m
+[100%] Built target gpr_path

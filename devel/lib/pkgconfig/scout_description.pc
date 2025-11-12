@@ -1,0 +1,1 @@
+/home/wangzheng/putn_ws/devel/.private/scout_description/lib/pkgconfig/scout_description.pc

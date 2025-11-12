@@ -1,0 +1,1 @@
+/home/wangzheng/putn_ws/devel/.private/waypoint_generator/share/waypoint_generator/cmake/waypoint_generatorConfig-version.cmake

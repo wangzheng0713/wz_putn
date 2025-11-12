@@ -1,0 +1,1 @@
+/home/wangzheng/putn_ws/devel/.private/scout_control/share/scout_control/cmake/scout_controlConfig-version.cmake

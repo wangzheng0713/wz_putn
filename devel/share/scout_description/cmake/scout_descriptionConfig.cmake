@@ -1,0 +1,1 @@
+/home/wangzheng/putn_ws/devel/.private/scout_description/share/scout_description/cmake/scout_descriptionConfig.cmake
