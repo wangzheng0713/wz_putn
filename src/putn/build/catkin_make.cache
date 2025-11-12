@@ -1,0 +1,2 @@
+putn/putn_gpr:putn/putn_launch:putn/putn_map:putn/putn_mpc:putn/putn_planning:putn/putn_rviz_plugins:putn/putn_waypoint_generator:scout_simulator/scout_control:scout_simulator/scout_description:scout_simulator/scout_gazebo_sim
+-DCATKIN_DEVEL_PREFIX=/home/wangzheng/putn_ws/src/putn/devel -DCMAKE_INSTALL_PREFIX=/home/wangzheng/putn_ws/src/putn/install -G Unix Makefiles
